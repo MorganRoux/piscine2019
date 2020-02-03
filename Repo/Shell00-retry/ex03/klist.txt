@@ -1,0 +1,5 @@
+Credentials cache: API:0CC46E91-793A-4F52-B6FC-D4A00AD6520D
+        Principal: mroux@42.FR
+
+  Issued                Expires             Flags    Principal
+Jul 29 11:23:07 2019  Aug  5 11:22:58 2019  FPIA   krbtgt/42.FR@42.FR
